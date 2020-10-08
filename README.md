@@ -22,6 +22,5 @@ I think that curiosity is the key to knowledge :bulb:.
 ## Stats
 [![angeleraser github stats](https://github-readme-stats.vercel.app/api?username=angeleraser&show_icons=true&theme=tokyonight)](https://github.com/angeleraser/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeleraser&layout=compact)](https://github.com/angeleraser/github-readme-stats)
 
 
