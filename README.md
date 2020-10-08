@@ -8,10 +8,10 @@ I like to write code, for me it is like a hobby because I have a lot of fun alth
 I think that curiosity is the key to knowledge :bulb:.
 
 ## My Skills :muscle:
-1. ### HTML5: Semantic web.
-2. ### CSS3: Flexbox-Grid layouts and components.
-3. ### Javascript: fundamentals, ES6, problem solving.
-4. ### React JS (current learning).
+1. #### HTML5: Semantic web.
+2. #### CSS3: Flexbox-Grid layouts and components.
+3. #### Javascript: fundamentals, ES6, problem solving.
+4. #### React JS (current learning).
 
 ## Technologies & Tools 🔧
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=1f4068)
