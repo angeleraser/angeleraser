@@ -13,9 +13,10 @@ I think that curiosity is the key to knowledge :bulb:.
 3. Javascript ES6.
 4. React JS (current learning).
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=1f4068)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=1f4068)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=1f4068)
+## Technologies & Tools 🔧
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=1F4068&color=1f4068)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=1F4068&color=1f4068)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=1F4068&color=1f4068)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=1F4068&color=1f4068)
 
 
