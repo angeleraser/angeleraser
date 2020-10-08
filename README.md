@@ -15,8 +15,8 @@ I think that curiosity is the key to knowledge :bulb:.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=1f4068)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=react.js&logoColor=white&color=1f4068)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=html&logoColor=white&color=1f4068)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=css&logoColor=white&color=1f4068)
+![](https://img.shields.io/badge/Code-react-informational?style=flat&logo=react.js&logoColor=white&color=1f4068)
+![](https://img.shields.io/badge/Code-html-informational?style=flat&logo=html&logoColor=white&color=1f4068)
+![](https://img.shields.io/badge/Code-css-informational?style=flat&logo=css&logoColor=white&color=1f4068)
 
 
