@@ -1,5 +1,4 @@
-<!-- [![Header](https://raw.githubusercontent.com/angeleraser/<OWNER>/<OWNER>/readme_header.png "Header")] -->
-[![Header for angeleraser](https://github.com/blob/main/assets/github-banner.png)]
+[![Header](https://raw.githubusercontent.com/angeleraser/<OWNER>/<OWNER>/assets/github-banner.png "Header")]
 
 <!--
 **angeleraser/angeleraser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
