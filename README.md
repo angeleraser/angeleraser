@@ -19,4 +19,7 @@ I think that curiosity is the key to knowledge :bulb:.
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1f4068)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=1f4068)
 
+## Stats
+[![angeleraser github stats](https://github-readme-stats.vercel.app/api?username=angeleraser)](https://github.com/angeleraser/github-readme-stats)
+
 
