@@ -13,13 +13,14 @@ I think that curiosity is the key to knowledge :bulb:.
 1. #### HTML5: Semantic web.
 2. #### CSS3: Flexbox-Grid layouts and components.
 3. #### Javascript: fundamentals, ES6, problem solving.
-4. #### React JS (current learning).
+4. #### React JS, Vue js & Quasar.
 
 ## Technologies & Tools 🔧
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=1f4068)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=1f4068)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1f4068)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=1f4068)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=vue&logoColor=white&color=1f4068)
 
 ## Stats
 [![angeleraser github stats](https://github-readme-stats.vercel.app/api?username=angeleraser&show_icons=true&theme=tokyonight)](https://github.com/angeleraser/github-readme-stats)
