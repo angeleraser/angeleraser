@@ -4,7 +4,7 @@
 My name is Angel I am 22 years old and I am a web developer (Frontend), I currently live in Venezuela.
 <br>
 
-I like to write code, for me it is like a hobby because I have a lot of fun although sometimes it gets a bit rough, I also like to solve code challenges in Hackerrank. 
+I like to write code, for me it is like a hobby because I have a lot of fun although sometimes it gets a bit rough. 
 <br>
 
 I think that curiosity is the key to knowledge :bulb:.
