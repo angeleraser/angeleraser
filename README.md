@@ -32,6 +32,13 @@ If you have any questions feel free to contact me:
 - Linkedin: [Angel Figuera](https://www.linkedin.com/in/angeleraser)
 - Portfolio: [Website](https://angelfiguera.vercel.app/)
 
+## My Top 3 projects
+Some projects that I am proud to show:
+
+| | | |
+| :--: | :--: | :--: |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angeleraser&theme=default&repo=country-quiz-app&show_owner=true)](https://game-country-quiz.netlify.app/) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angeleraser&theme=default&repo=Black-Hole-Escape&show_owner=true)](https://black-hole-escape.netlify.app/) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angeleraser&theme=default&repo=Rock-Paper-Scissors-React-Game&show_owner=true)](https://rock-paper-scissors-game.angeleraser.vercel.app/)
+
 ## Stats for nerds (maybe not accurate)
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeleraser&theme=default&layout=compact&langs_count=10)
@@ -39,10 +46,3 @@ If you have any questions feel free to contact me:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=angeleraser&show_icons=true&locale=en&theme=default&count_private=true&hide_title=true) 
 
 ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=angeleraser&theme=default)
-
-## My Top 3 projects
-Some projects that I am proud to show:
-
-| | | |
-| :--: | :--: | :--: |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angeleraser&theme=default&repo=country-quiz-app&show_owner=true)](https://game-country-quiz.netlify.app/) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angeleraser&theme=default&repo=Black-Hole-Escape&show_owner=true)](https://black-hole-escape.netlify.app/) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angeleraser&theme=default&repo=Rock-Paper-Scissors-React-Game&show_owner=true)](https://rock-paper-scissors-game.angeleraser.vercel.app/)
