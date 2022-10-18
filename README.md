@@ -41,6 +41,7 @@ If you have any questions feel free to contact me:
 ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=angeleraser&theme=default)
 
 ## My Top 3 projects
+Some projects that I am proud to show:
 
 | | | |
 | :--: | :--: | :--: |
