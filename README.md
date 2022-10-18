@@ -26,6 +26,8 @@ I think that curiosity is the key to knowledge :bulb:.
 - [Windows OS](https://www.microsoft.com/en-us/windows)
 
 ## Get in touch ✉
+If you have any questions feel free to contact me:
+
 - Twitter: [@angeleraser](https://twitter.com/angeleraser)
 - Linkedin: [Angel Figuera](https://www.linkedin.com/in/angeleraser)
 - Portfolio: [Website](https://angelfiguera.vercel.app/)
