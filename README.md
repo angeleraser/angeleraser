@@ -1,29 +1,38 @@
-[![Header](https://raw.githubusercontent.com/angeleraser/angeleraser/main/assets/github-banner.png "Header")](https://github.com/angeleraser)
+![Header](./assets/github-banner.jpg)
 
 # Hello there! :wave:
-My name is Angel I am 22 years old and I am a web developer (Frontend), I currently live in Venezuela.
+
+My name is Angel, i am 24 years old and a passionate, innovative and proactive developer. Daily improving, constant learning and application of the best practices through Frontend web development and programming. Proficient with the most modern technologies like Javascript ES6+, Typescript, React JS and Vue js.
 <br>
 
-I like to write code, for me it is like a hobby because I have a lot of fun although sometimes it gets a bit rough. 
+I like to write code, for me it is like a hobby because I have a lot of fun although sometimes it gets a bit rough.
 <br>
 
 I think that curiosity is the key to knowledge :bulb:.
 
-## My Skills :muscle:
-1. #### HTML5: Semantic web.
-2. #### CSS3: Flexbox-Grid layouts and components.
-3. #### Javascript: fundamentals, ES6, problem solving.
-4. #### React JS, Vue js & Quasar.
+## Technical Skills & Tools 🔧
 
-## Technologies & Tools 🔧
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=1f4068)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=1f4068)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1f4068)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=1f4068)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue&logoColor=white&color=1f4068)
+- [CSS3](https://developer.mozilla.org/en-US/docs/Web/css)
+- [HTML5](https://developer.mozilla.org/en-US/docs/Web/html)
+- [Javascript](https://developer.mozilla.org/en-US/docs/Web/javascript)
+- [SASS/SCSS](https://sass-lang.com/)
+- [Typescript](https://www.typescriptlang.org/)
+- [React JS](https://reactjs.org/)
+- [Vue](https://vuejs.org/)
+- [Git](https://git-scm.com/)
+- [Node](https://nodejs.org/en/)
+- [Powershell](https://learn.microsoft.com/en-us/powershell/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Windows OS](https://www.microsoft.com/en-us/windows)
 
-## Stats
-[![angeleraser github stats](https://github-readme-stats.vercel.app/api?username=angeleraser&show_icons=true&theme=tokyonight)](https://github.com/angeleraser/github-readme-stats)
+## Stats for nerds (maybe not accurate)
 
+<div style='display: flex; gap: 16px; align-items: center;'>
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=angeleraser&show_icons=true&locale=en&theme=tokyonight&count_private=true&hide_title=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeleraser&theme=tokyonight&layout=compact&langs_count=10)
+
+![github streak](https://github-readme-streak-stats.herokuapp.com/?user=angeleraser&theme=tokyonight)
+
+</div>
