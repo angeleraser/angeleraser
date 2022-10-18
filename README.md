@@ -31,11 +31,7 @@ I think that curiosity is the key to knowledge :bulb:.
 
 | | | |
 | :--: | :--: | :--: |
-| `Most used langs` ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeleraser&theme=default&layout=compact&langs_count=10)
-
-| `Github stats` ![Github stats](https://github-readme-stats.vercel.app/api?username=angeleraser&show_icons=true&locale=en&theme=default&count_private=true&hide_title=true)
-
-| `Github streak` ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=angeleraser&theme=default)
+| `Most used langs` ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeleraser&theme=default&layout=compact&langs_count=10) | `Github stats` ![Github stats](https://github-readme-stats.vercel.app/api?username=angeleraser&show_icons=true&locale=en&theme=default&count_private=true&hide_title=true) | `Github streak` ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=angeleraser&theme=default)
 
 </div>
 
