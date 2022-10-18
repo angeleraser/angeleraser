@@ -27,15 +27,13 @@ I think that curiosity is the key to knowledge :bulb:.
 
 ## Stats for nerds (maybe not accurate)
 
-<div style='display: flex; gap: 16px; align-items: center;'>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeleraser&theme=default&layout=compact&langs_count=10)
 
-| | | |
-| :--: | :--: | :--: |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeleraser&theme=default&layout=compact&langs_count=10) | ![Github stats](https://github-readme-stats.vercel.app/api?username=angeleraser&show_icons=true&locale=en&theme=default&count_private=true&hide_title=true) | ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=angeleraser&theme=default)
+![Github stats](https://github-readme-stats.vercel.app/api?username=angeleraser&show_icons=true&locale=en&theme=default&count_private=true&hide_title=true) 
 
-</div>
+![github streak](https://github-readme-streak-stats.herokuapp.com/?user=angeleraser&theme=default)
 
-## Top 3 projects
+## My Top 3 projects
 
 | | | |
 | :--: | :--: | :--: |
