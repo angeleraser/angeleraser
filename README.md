@@ -25,6 +25,11 @@ I think that curiosity is the key to knowledge :bulb:.
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Windows OS](https://www.microsoft.com/en-us/windows)
 
+## Get in touch ✉
+- Twitter: [@angeleraser](https://twitter.com/angeleraser)
+- Linkedin: [Angel Figuera](https://www.linkedin.com/in/angeleraser)
+- Portfolio: [Website](https://angelfiguera.vercel.app/)
+
 ## Stats for nerds (maybe not accurate)
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeleraser&theme=default&layout=compact&langs_count=10)
