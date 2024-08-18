@@ -2,7 +2,7 @@
 
 # Hello there! :wave:
 
-My name is Angel, i am 24 years old and a passionate, innovative and proactive developer. Daily improving, constant learning and application of the best practices through Frontend web development and programming. Proficient with the most modern technologies like Javascript ES6+, Typescript, React JS and Vue js.
+My name is Angel, i am 25 years old and a passionate, innovative and proactive developer. Daily improving, constant learning and application of the best practices through Frontend web development and programming. Proficient with the most modern technologies like Javascript ES6+, Typescript, React JS and Vue js.
 <br>
 
 I like to write code, for me it is like a hobby because I have a lot of fun although sometimes it gets a bit rough.
